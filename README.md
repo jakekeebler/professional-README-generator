@@ -20,7 +20,7 @@
 
   * ![gif](./Develop/video/ezgif-1-b89c36dcf5.gif)
 
-  * Watch the video [here](https://youtu.be/r5oiGYIG3l8)
+  * Watch the video [here](https://youtu.be/WTRqx7sK590)
   
   ## Usage
   * This program helps a user quickly create a README.md to use for their repositories.
