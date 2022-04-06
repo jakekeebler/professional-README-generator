@@ -18,7 +18,7 @@
   ## Installation Instructions
   * In order to run this program, clone the repository onto your computer. Then, by using a terminal such as GitBash or another integrated terminal available in Visual Studio code, make sure you're in the develop directory and type  "npm init -y" to intialize the package.json  and "npm install inquirer" to install inquirer. Once the packages are installed, run the program by typing "node index".
 
-  * ![gif](./Develop/video/walkthrough.mp4)
+  * ![gif](./Develop/video/ezgif-1-b89c36dcf5.gif)
 
   * Watch the video [here](https://youtu.be/r5oiGYIG3l8)
   
